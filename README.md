@@ -70,5 +70,6 @@ a=int(a)
 b=int(b)
 print("Hasil Penjumlahan {1}+{0}=%d").format(a,b) %(a+b))
 print("Hasil Pembagian {1}+{0}=%d").format(a,b) %(a/b))
+```
 Outputnya akan seperti ini 
 ![gambar7](img/Fardhilan7.png)
