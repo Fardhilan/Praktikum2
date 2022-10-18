@@ -1,7 +1,7 @@
 # Praktikum2 Fardhilan Galang Priarto 
 ## Latihan 1
 # Syntax Dasar
-Dibawah ini adalah contoh fungsi Python yang digunakan untuk mencetak. Di Python untuk mencetak cukup gunakan fungsi print()
+Dibawah ini adalah contoh fungsi Python yang digunakan untuk mencetak. Di Python untuk mencetak cukup gunakan fungsi print("")
 ```
 print("Hello")
 ```
